@@ -1,0 +1,11 @@
+TODO: If you make significant changes to your design in Phase 3 as you implement, 
+just include a brief description of the changes in the "phase3.txt" file described 
+in the phase 3 deliverables doc.
+
+Added a BIT(1) column to Deploys table.
+Added a BIT(1) column to the Repair table.
+These changes allowed for us to give the user the power to return resources late/early as needed and the software could then dynamically handle the deviations from the estimated dates.
+
+Indicate which file/files contains the SQL implemented by your project:
+
+php/erms.sql
