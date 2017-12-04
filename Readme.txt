@@ -1,5 +1,3 @@
-# Database-Emergency-Response-System
-
 To run project:
 
 open cmd window in php folder
