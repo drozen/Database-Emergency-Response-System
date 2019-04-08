@@ -2,6 +2,8 @@
 
 ### Designed and Implemented a complex web-based Database system for Emergency Resource Management System using SQL and PHP in a team
 
+Used MySQL, phpMyAdmin, and WAMP Stack
+
 To run project:
 
 open cmd window in php folder
