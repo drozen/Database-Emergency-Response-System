@@ -2,7 +2,7 @@ To run project:
 
 open cmd window in php folder
 run:
-php- S localhost:8000
+php -S localhost:8000
 
 run from browser
 
